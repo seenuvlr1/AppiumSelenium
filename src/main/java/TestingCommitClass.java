@@ -15,6 +15,7 @@ public class TestingCommitClass {
 		
 		testmethod();
 		testmethod2();
+		System.out.println("This is my main method");
 
 	}
 
